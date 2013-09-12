@@ -10,12 +10,18 @@
     <form id="form1" runat="server">
     <div>
     
-        <h1></h1>
+        <h1>Main Page</h1>
 
-        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Tehtava1.aspx">HyperLink</asp:HyperLink>
+
+        <asp:HyperLink ID="db" runat="server" NavigateUrl="~/f2067_DBDemo.aspx">DB Demo</asp:HyperLink> <br />
+
+
+        <asp:HyperLink ID="localdb" runat="server" NavigateUrl="~/f2067_localDBDemo.aspx">Local DB Demo</asp:HyperLink>
     
+
+
     </div>
-        <asp:Image ID="Image1" runat="server" ImageUrl="http://25.media.tumblr.com/tumblr_m8038vEpho1rpx0qgo1_500.png" Width="356px" />
+        
     </form>
 </body>
 </html>
