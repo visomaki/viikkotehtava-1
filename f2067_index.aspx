@@ -15,7 +15,7 @@
         <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Tehtava1.aspx">HyperLink</asp:HyperLink>
     
     </div>
-        <asp:Image ID="Image1" runat="server" ImageUrl="http://25.media.tumblr.com/tumblr_m8038vEpho1rpx0qgo1_500.png" />
+        <asp:Image ID="Image1" runat="server" ImageUrl="http://25.media.tumblr.com/tumblr_m8038vEpho1rpx0qgo1_500.png" Width="356px" />
     </form>
 </body>
 </html>
