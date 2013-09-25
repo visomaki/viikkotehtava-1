@@ -9,17 +9,9 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
         <h1>Main Page</h1>
-
-
         <asp:HyperLink ID="db" runat="server" NavigateUrl="~/f2067_DBDemo.aspx">DB Demo</asp:HyperLink> <br />
-
-
-        <asp:HyperLink ID="localdb" runat="server" NavigateUrl="~/f2067_localDBDemo.aspx">Local DB Demo</asp:HyperLink>
-    
-
-
+        <asp:HyperLink ID="localdb" runat="server" NavigateUrl="~/f2067_localDBDemo.aspx">Local DB Demo</asp:HyperLink> <br />
     </div>
         
     </form>
