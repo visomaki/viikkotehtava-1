@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" Theme="elakelaskuri" AutoEventWireup="true" CodeFile="f2067_elakelaskuri.aspx.cs" Inherits="f2067_elakelaskuri" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="f2067_elakelaskuri.aspx.cs" Inherits="f2067_elakelaskuri" %>
 
 <!DOCTYPE html>
 
