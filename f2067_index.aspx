@@ -63,8 +63,8 @@
     </div>
 
     <div class="name">
-        F2067 - Vesa Isomäki
         <p>  <asp:Image ID="Image1" runat="server" ImageUrl="~/images/coding.gif" /> </p>
+        F2067 - Vesa Isomäki
     </div>
 
     </form>
