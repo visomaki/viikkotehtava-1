@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Menu Name="Navigation">
+  <Item Name="Home" Url="~/page1.aspx" />
+  <Item Name="Treeview" Url="~/page2.aspx" />
+  <Item Name="Links" Url="~/page3.aspx" />
+  <Item Name="Tehtäväluettelo" Url="~/f2067_index.aspx" />  
+</Menu>

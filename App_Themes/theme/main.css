@@ -1,0 +1,110 @@
+BODY {
+	background-color: black;
+	color: white;
+	font-family: sans-serif;
+	margin: 0px;
+}
+H1, H2, H3, LI, P, SPAN, UL {
+	margin: 0px;
+	padding: 0px;
+}
+
+.end {
+	clear: left;
+}
+
+#page {
+    border-left: 1px solid #4f4f4f;
+    border-right: 1px solid #4f4f4f;
+
+	position: absolute;
+	left: 50%;
+	margin-left: -375px;
+	top: 0px;
+	width: 750px;
+}
+
+#intro {
+	background: url('header.jpg') no-repeat;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	height: 300px;
+	width: 750px;
+}
+#intro H1 {
+	position: absolute;
+	color: #3996D6;
+	font-size: 25px;
+	font-weight: normal;
+	left: 520px;
+	top: 10px;
+	font-family:Georgia;
+	background-color:#fff;
+}
+
+#menu{
+    width: 750px;
+	background: #4f4f4f;
+	height:17px;
+}
+#menu A {
+	display: block;
+	border-right: 2px solid black;
+	color: #fff;
+	font-size: 12px;
+	font-weight: bold;
+	float: left;
+	padding: 2px 10px 2px 10px;
+	text-decoration: none;
+}
+#menu A:hover {
+	background-color: #fff;
+	color: #3996D6;
+}
+
+#content {
+	font-size: 12px;
+	padding: 10px 0px 20px 0px;
+}
+#content H1 {
+	font-size: 20px;
+	border-bottom: 1px solid #4f4f4f;
+	padding: 10px 0px 0px 0px;
+}
+
+#text {
+
+	text-align: center;
+	margin: 0px 20px 0px 0px;
+	padding: 0px 20px 0px 0px;
+	width: 100%;
+}
+#left {
+}
+
+#footer {
+	background-color: #4f4f4f;
+	color: black;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 0px;
+	text-align: center;
+}
+#footer A {
+	color: #aaaaaa;
+	text-decoration: none;
+}
+#footer A:hover {
+	color: white;
+	letter-spacing: 2px;
+}
+a{
+color:#3996D6;
+text-decoration:underline;
+}
+a:hover{
+color:#3996D6;
+text-decoration:none;
+background:#fff;
+}

@@ -60,6 +60,7 @@
         <h1>Viikkotehtävät</h1>
         <div class="link"><asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/f2067_valuutta.aspx">Viikkotehtävä 1 (valuuttamuunnin)</asp:HyperLink></div>
         <div class="link"><asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/f2067_elakelaskuri.aspx">Viikkotehtävä 2 (eläkelaskuri)</asp:HyperLink></div>
+        <div class="link"><asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/page1.aspx">Viikkotehtävä 3 (Oma sivusto)</asp:HyperLink></div>
     </div>
 
     <div class="name">
