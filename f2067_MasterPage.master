@@ -16,6 +16,7 @@
 		<a href="page1.aspx">Home</a>
 		<a href="page2.aspx">TreeView</a>
 		<a href="page3.aspx">Links</a>
+		<a href="palaute.aspx">Palaute</a>
 	</div>
 	<div id="content">
 	<br />

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
+<palautteet>
+  <palaute>
+    <pvm>20131001</pvm>
+    <tekija>Juice Läskinen</tekija>
+    <opittu>paljon hyvää ja törkeän tärkeää</opittu>
+    <haluanoppia>tietoturvasta tsäbää</haluanoppia>
+    <hyvaa>demot</hyvaa>
+    <parannettavaa>enemmän omaa tekemistä</parannettavaa>
+    <muuta>GitHub ok </muuta>
+  </palaute>
+  <palaute>
+    <pvm>2013103</pvm>
+    <tekija>Esa Vesa</tekija>
+    <opittu>ASP.NET perusteet</opittu>
+    <haluanoppia>autentikointi ja hashaus</haluanoppia>
+    <hyvaa>hyvää</hyvaa>
+    <parannettavaa>parannettavaa</parannettavaa>
+    <muuta>blaah blaah</muuta>
+  </palaute>
+  <palaute>
+    <pvm>2013-10-10</pvm>
+    <tekija>Vesa Isomäki</tekija>
+    <opittu>Aspia.</opittu>
+    <haluanoppia>Lisää aspia.</haluanoppia>
+    <hyvaa>Harjoitukset + github</hyvaa>
+    <parannettavaa>hmmm</parannettavaa>
+    <muuta>-</muuta>
+  </palaute>
+  <palaute>
+    <pvm>2013-10-10</pvm>
+    <tekija>Testi</tekija>
+    <opittu>Testi</opittu>
+    <haluanoppia>Testi</haluanoppia>
+    <hyvaa>Testi</hyvaa>
+    <parannettavaa>Testi</parannettavaa>
+    <muuta>Testi</muuta>
+  </palaute>
+</palautteet>
