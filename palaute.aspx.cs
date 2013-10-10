@@ -13,7 +13,6 @@ public partial class palaute : System.Web.UI.Page
 
     }
 
-
     protected void btnSend_Click(object sender, EventArgs e)
     {
 

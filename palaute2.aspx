@@ -10,7 +10,7 @@
 
 
 
-            <asp:Repeater id="cdcatalog" runat="server">
+            <asp:Repeater id="palautteet" runat="server">
 
             <HeaderTemplate>
             <table border="1" width="100%">

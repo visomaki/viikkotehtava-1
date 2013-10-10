@@ -10,11 +10,11 @@ public partial class palaute2 : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-        DataSet mycdcatalog = new DataSet();
+        DataSet palauteSet = new DataSet();
 
-        mycdcatalog.ReadXml(MapPath("~/App_Data/Palautteet.xml"));
+        palauteSet.ReadXml(MapPath("~/App_Data/Palautteet.xml"));
 
-        cdcatalog.DataSource=mycdcatalog;
-        cdcatalog.DataBind();
+        palautteet.DataSource = palauteSet;
+        palautteet.DataBind();
     }
 }
