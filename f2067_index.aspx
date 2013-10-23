@@ -62,6 +62,8 @@
         <div class="link"><asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/f2067_elakelaskuri.aspx">Viikkotehtävä 2 (eläkelaskuri)</asp:HyperLink></div>
         <div class="link"><asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/page1.aspx">Viikkotehtävä 3 (Oma sivusto)</asp:HyperLink></div>
         <div class="link"><asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/palaute.aspx">VäliPalaute-tehtävä</asp:HyperLink></div>
+        <div class="link"><asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/f2067_wanhatautot.aspx">Viikkotehtävä 4 (WanhatAutot)</asp:HyperLink></div>
+        <div class="link"><asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="~/f2067_levykauppa.aspx">Viikkotehtävä 5 (levykauppa)</asp:HyperLink></div>
     </div>
 
     <div class="name">

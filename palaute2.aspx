@@ -7,9 +7,6 @@
 
            <h1> Kaikki palautteet </h1>
 
-
-
-
             <asp:Repeater id="palautteet" runat="server">
 
             <HeaderTemplate>
@@ -42,9 +39,6 @@
             </FooterTemplate>
 
             </asp:Repeater>
-
-
-
 
 		</div>
     </form>
